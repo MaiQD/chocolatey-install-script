@@ -28,3 +28,5 @@ Run command
 - mobaxterm 
 - lightshot 
 - notion 
+- linqpad
+- git
