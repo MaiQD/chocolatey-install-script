@@ -30,3 +30,4 @@ Run command
 - notion 
 - linqpad
 - git
+- postman

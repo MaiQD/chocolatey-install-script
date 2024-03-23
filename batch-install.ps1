@@ -11,6 +11,7 @@ choco install mobaxterm -y
 choco install lightshot -y
 choco install notion -y
 choco install linqpad -y
+choco install postman -y
 wsl --install
 choco install docker-desktop -y
 choco install git.install --params "'/Editor:VisualStudioCode /WindowsTerminalProfile'" -y
