@@ -10,7 +10,9 @@ choco install drawio -y
 choco install mobaxterm -y
 choco install lightshot -y
 choco install notion -y
+choco install flow-launcher -y
 choco install linqpad -y
+#choco install controlmymonitor -y
 choco install postman -y
 wsl --install
 choco install docker-desktop -y
