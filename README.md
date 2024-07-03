@@ -4,7 +4,7 @@ Install programs using chocolatey
 >Running in <b>Administrator</b> Powershell
 ## Install Chocolatey
 With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted. We suggest using Bypass to bypass the policy to get things installed or AllSigned for quite a bit more security.
-Run Get-ExecutionPolicy. If it returns Restricted, then run `Set-ExecutionPolicy AllSigned` or `Set-ExecutionPolicy Bypass -Scope Process`.
+`Run Get-ExecutionPolicy`. If it returns **Restricted**, then run `Set-ExecutionPolicy AllSigned` or `Set-ExecutionPolicy Bypass -Scope Process`.
 
 You can either install Chocolatey manually using this installation URL: https://chocolatey.org/install#individual, or install it automatically by following the steps in the installation script.
 
