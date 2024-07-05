@@ -39,5 +39,6 @@ wsl --install
 choco install docker-desktop -y
 choco install git.install --params "'/Editor:VisualStudioCode /WindowsTerminalProfile'" -y
 choco install beyondcompare -y
+choco install powertoys -y
 echo("Refreshing Environment variables")
 refreshenv
