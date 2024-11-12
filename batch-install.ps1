@@ -27,6 +27,7 @@ choco install vscode -y
 choco install azure-cli -y
 choco install dbeaver -y
 choco install obs-studio -y
+choco install devtoys -y
 choco install drawio -y
 choco install mobaxterm -y
 choco install lightshot -y
